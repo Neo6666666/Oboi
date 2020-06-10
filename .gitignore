@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+
+.vscode/*
+.mypy_cache/*
+
+# dotenv environment variables file
+.env
+
+!.gitignore
+!.gitkeep
